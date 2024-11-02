@@ -4,6 +4,9 @@ PneumoNet is a deep learning project aimed at improving the detection and classi
 
 Key Features:
 CNN architecture for image classification
+
 Detailed data preprocessing and augmentation
+
 Evaluation metrics for model performance
+
 Contribute to advancing pediatric healthcare through AI-driven solutions!
