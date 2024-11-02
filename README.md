@@ -11,4 +11,4 @@ Detailed data preprocessing and augmentation
 
 Evaluation metrics for model performance
 
-Contribute to advancing pediatric healthcare through AI-driven solutions!
+Contribute to advancing pediatric healthcare 
